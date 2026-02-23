@@ -1,0 +1,1 @@
+The idea of this project is to be a pack of automations, mainly with HTML code, using Python, Beautifulsoup and Playwright. The idea is to return JSON every time
